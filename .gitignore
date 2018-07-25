@@ -28,3 +28,7 @@ node_modules
 
 .publish
 builds
+
+# IDE
+.idea/
+package-lock.json
